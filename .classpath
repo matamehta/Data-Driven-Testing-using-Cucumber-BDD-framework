@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="D:/my_workspace/Selenium_demo/lib/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Cucumber/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/my_workspace/Selenium_demo/lib/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/my_workspace/Selenium_demo/lib/guava-19.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
